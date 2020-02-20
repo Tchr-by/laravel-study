@@ -54,8 +54,8 @@
                         </div>
 
                         <div class="form-group">
-                            <label for="descript">description</label>
-                            <textarea name="descript" id="descript"
+                            <label for="description">description</label>
+                            <textarea name="description" id="description"
                                     class="form-control">
                                     {{ $item->description}}
                             </textarea>
